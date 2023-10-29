@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fendi is an Italian luxury fashion house producing fur, ready-to-wear,
+ leather goods, shoes, fragrances, eyewear, timepieces and accessories. Founded in Rome in 1925,
+  Fendi is known for its fur, fur accessories, and leather goods. Since 2001,
+  Fendi has been part of the (Fashion and Leather Goods) division of the French"
+        tools:layout_editor_absoluteX="177dp"
+        tools:layout_editor_absoluteY="224dp" />
+
+
+</LinearLayout>
